@@ -7,6 +7,6 @@ The code includes implementations of Monte Carlo simulations, fractal generation
 The repository is designed to support further exploration, adaptation, and extension of these methods, making it a valuable resource for researchers and creators interested in the intersection of science, art, and technology.
 
 ## Author
-This project was created by XX XX and is part of the work titled *Echoes of the History of Science*. 
+This project was created by Pan Yu, Qiao Ziqian  and is part of the work titled *Echoes of the History of Science*. 
 
-You can contact the author at: []
+You can contact the author at: 1909@ccom.edu.cn
